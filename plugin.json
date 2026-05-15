@@ -1,0 +1,38 @@
+{
+  "name": "angular-ssr",
+  "version": "1.0.0",
+  "description": "Guides AI coding assistants to correctly set up Angular SSR, diagnose NG05xx hydration errors, and apply SSR patterns in Angular v17+ applications.",
+  "author": {
+    "name": "Sonu Kapoor",
+    "email": "sonukapoor@gmail.com",
+    "url": "https://github.com/sonukapoor"
+  },
+  "homepage": "https://github.com/sonukapoor/angular-ssr",
+  "repository": "https://github.com/sonukapoor/angular-ssr",
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "ssr",
+    "hydration",
+    "ng0500",
+    "ng0503",
+    "ng0506",
+    "server-side-rendering",
+    "provideClientHydration",
+    "ngSkipHydration",
+    "afterNextRender"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Angular SSR",
+    "shortDescription": "Setup, diagnose, and fix Angular SSR and hydration errors",
+    "longDescription": "Guides any AI coding assistant through correct Angular SSR setup, NG05xx hydration error diagnosis with root-cause tracing, and SSR pattern usage. Covers provideClientHydration, Transfer State, incremental hydration, engine selection, and a full anti-pattern blacklist. Targets Angular v17+ with built-in @angular/ssr.",
+    "developerName": "Sonu Kapoor",
+    "category": "Coding",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/sonukapoor/angular-ssr"
+  }
+}
