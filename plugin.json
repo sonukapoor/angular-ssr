@@ -21,18 +21,5 @@
     "provideClientHydration",
     "ngSkipHydration",
     "afterNextRender"
-  ],
-  "skills": "./skills/",
-  "interface": {
-    "displayName": "Angular SSR",
-    "shortDescription": "Setup, diagnose, and fix Angular SSR and hydration errors",
-    "longDescription": "Guides any AI coding assistant through correct Angular SSR setup, NG05xx hydration error diagnosis with root-cause tracing, and SSR pattern usage. Covers provideClientHydration, Transfer State, incremental hydration, engine selection, and a full anti-pattern blacklist. Targets Angular v17+ with built-in @angular/ssr.",
-    "developerName": "Sonu Kapoor",
-    "category": "Coding",
-    "capabilities": [
-      "Read",
-      "Write"
-    ],
-    "websiteURL": "https://github.com/sonukapoor/angular-ssr"
-  }
+  ]
 }
